@@ -1,0 +1,19 @@
+{
+  "name": "stp",
+  "version": "0.0.2",
+  "description": "基于 es6 模板字符串的超简模板引擎",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "es6",
+    "tmpl",
+    "stp"
+  ],
+  "author": "Houfeng",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
